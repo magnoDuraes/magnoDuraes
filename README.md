@@ -1,12 +1,14 @@
-- 👋 Hi, I’m @magnoDuraes
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+# Magno Durães
+### Desenvolvedor FullStack
 
-<!---
-magnoDuraes/magnoDuraes is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+💻 Cientista da Computação pela [Universidade Estácio de Sá](https://estacio.br/)  
+🚀 Estagiário Fullstack na [Editora Globo](https://www.linkedin.com/company/editoraglobo)
+
+### Tecnologias e Ferramentas
+
+```js
+const Magno = {
+  pronouns: "he" | "him" | "ele" | "Dele",
+  skills: ["JavaScript", "TypeScript", "HTML", "CSS", "Python"],
+  tools: ["React.js", "Next.js", "React Native", "Docker", "Node.js"],
+};
